@@ -1,5 +1,7 @@
 Planning for Product Management
 - Mencetuskan ide Product
+* Batu bara
+* Briket Arang
 - Menganalisis pasar
 - Mempelajari competitor
 - Memahami product
