@@ -1,6 +1,6 @@
 My planning
-- Mempelajari Git dan GitHub
 - Mempelajari HTML Dasar
 - Mempelajari HTML 5
 - Mempelajari CSS Dasar
 - Mempelajari CSS Layouting
+- Mempelajari Javascript Dasar
