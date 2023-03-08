@@ -1,0 +1,4 @@
+My planning
+- Mempelajari Git dan GitHub
+- Mempelajari HTML Dasar
+- Mempelajari HTML 5
