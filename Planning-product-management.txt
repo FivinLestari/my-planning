@@ -1,9 +1,12 @@
 Planning for Product Management
 - Mencetuskan ide Product
-* Batu bara
+* Batubara
 * Briket Arang
+* Palm Oil
 - Menganalisis pasar
 * Lokal
 * Ekspor
 - Mempelajari competitor
 - Memahami product
+* Lignite
+* Sub Bituminuous
