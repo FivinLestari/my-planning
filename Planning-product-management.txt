@@ -2,7 +2,6 @@ Planning for Product Management
 - Mencetuskan ide Product
 * Batu bara
 * Palm Oil
-* Kelapa
 - Menganalisis pasar
 * Lokal
 - Mempelajari competitor
